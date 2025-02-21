@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="mongodb.driver.sync" type="repository">
+    <properties maven-id="org.mongodb:mongodb-driver-sync:5.3.1">
+      <exclude>
+        <dependency maven-id="org.mongodb:bson-record-codec" />
+        <dependency maven-id="org.mongodb:bson" />
+        <dependency maven-id="org.mongodb:mongodb-driver-core" />
+        <dependency maven-id="org.mongodb:mongodb-driver-sync" />
+      </exclude>
+    </properties>
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
